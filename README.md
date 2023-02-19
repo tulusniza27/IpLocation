@@ -44,10 +44,14 @@ Contoh : python3 ipgeolocation.py -t
 
 Jika belum masuk ke folder perintah di atas tidak akan di bisa di jalankan
 Untuk masuk ke folder 
+
 Sbb: cd IpLocation
+
 Contoh : iPhone-TULUS:~#cd IpLocation.
 
 Selamat mencoba semoga sukses.
 Butuh bantuan jangan sungkan bertanya dengan hubungi Contact person 
+
 Email : tulusniza27@icloud.com
+
 Wa    : +6281515044407
